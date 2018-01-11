@@ -1,0 +1,15 @@
+{
+  "name": "react-native-pcm-recorder",
+  "version": "1.0.0",
+  "description": "React Native extension for recording pcm",
+  "main": "index.js",
+  "author": "damly <8051263@qq.com>",
+  "keywords": [
+    "react-native",
+    "audio",
+    "record",
+    "pcm"
+  ],
+  "license": "MIT",
+  "nativePackage": true
+}
