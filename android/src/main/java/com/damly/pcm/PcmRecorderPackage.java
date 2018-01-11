@@ -24,7 +24,6 @@ public class PcmRecorderPackage implements ReactPackage {
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         List<NativeModule> modules = new ArrayList<>();
         modules.add(new PcmRecorderModule(reactContext));
-        modules.add(new PcmPlayerModule(reactContext));
         return modules;
     }
 
